@@ -10,6 +10,7 @@ Product Strategy → Execution — Turning vision into roadmaps and ensuring tea
 Program Leadership — Driving cross-functional initiatives across product, engineering, design, data, and go-to-market teams.
 Human-Centered AI — Designing AI solutions that enhance workflows and support human judgment.
 Frameworks & Playbooks — Creating discovery frameworks, prioritization models, and program playbooks for AI-driven teams.
+
 💬 If you’re building something that requires strategic clarity, operational excellence, and human-centered AI thinking, let’s connect.
 
 📬 Email: buildandrunai@gmail.com
